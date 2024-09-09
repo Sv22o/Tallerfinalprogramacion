@@ -1,0 +1,87 @@
+[
+    {
+        "nombre": "Papas",
+        "precio": 12.2,
+        "cantidad": 300
+    },
+    {
+        "nombre": "Huevos",
+        "precio": 15,
+        "cantidad": 50
+    },
+    {
+        "nombre": "Arroz",
+        "precio": 4.2,
+        "cantidad": 150
+    },
+    {
+        "nombre": "Mayonesa",
+        "precio": 20.5,
+        "cantidad": 90
+    },
+    {
+        "nombre": "Salsa",
+        "precio": 10.99,
+        "cantidad": 90
+    },
+    {
+        "nombre": "Salchichas",
+        "precio": 29.0,
+        "cantidad": 230
+    },
+    {
+        "nombre": "Queso",
+        "precio": 60.0,
+        "cantidad": 330
+    },
+    {
+        "nombre": "Tomates",
+        "precio": 28.0,
+        "cantidad": 29
+    },
+    {
+        "nombre": "Chocolates",
+        "precio": 23.0,
+        "cantidad": 50
+    },
+    {
+        "nombre": "Pasas",
+        "precio": 10.0,
+        "cantidad": 300
+    },
+    {
+        "nombre": "Cocacola",
+        "precio": 4.0,
+        "cantidad": 200
+    },
+    {
+        "nombre": "Fresas",
+        "precio": 3.0,
+        "cantidad": 800
+    },
+    {
+        "nombre": "Jugos",
+        "precio": 4.0,
+        "cantidad": 100
+    },
+    {
+        "nombre": "Pasta",
+        "precio": 2.0,
+        "cantidad": 300
+    },
+    {
+        "nombre": "Mantequilla",
+        "precio": 3.0,
+        "cantidad": 600
+    },
+    {
+        "nombre": "Leche",
+        "precio": 9.0,
+        "cantidad": 300
+    },
+    {
+        "nombre": "Pepsicola",
+        "precio": 4.0,
+        "cantidad": 100
+    }
+]
